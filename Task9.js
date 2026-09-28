@@ -23,4 +23,3 @@ function factorial(n) {
 const memoizedFactorial = memoize(factorial);
 
 console.log(memoizedFactorial(5));
-console.log(memoizedFactorial(5));
